@@ -1,0 +1,6 @@
+2026-06-10 10:02:11 INFO Running Python compilation check
+  File "src/formatter.py", line 18
+    print("Formatting complete"
+         ^
+SyntaxError: '(' was never closed
+ERROR: Compilation check failed
